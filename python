@@ -1,0 +1,7 @@
+echo "# python-" >> README.md 
+git init 
+git add README.md 
+git commit -m "第一次提交" 
+git分支 -M main 
+git 最後新增 origin https://github.com/Yufonglin/python - . git
+ git Push -u 原點主要
